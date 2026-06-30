@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Justine\Visual Studio\EduNest\EduNest\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frmForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNewNest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRenameNest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSelectNest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
