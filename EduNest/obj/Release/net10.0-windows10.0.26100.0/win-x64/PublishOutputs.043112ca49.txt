@@ -1,0 +1,2 @@
+C:\Users\ginoj\OneDrive\visualstudio\EduNest\EduNest\bin\Release\net10.0-windows7.0\EduNest.pdb
+C:\Users\ginoj\OneDrive\visualstudio\EduNest\EduNest\bin\Release\net10.0-windows7.0\EduNest.exe

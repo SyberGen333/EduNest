@@ -1,0 +1,3 @@
+D:\Downloads\EduNest.pdb
+D:\Downloads\EduNest.dll.config
+D:\Downloads\EduNest.exe
